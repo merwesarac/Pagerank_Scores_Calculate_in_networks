@@ -6,8 +6,10 @@ employeer and manager ids matched to understand their relationship
 
 R and Sql codes were used to calculate Page Rank Scores and construct the levels from the network
 
-Packages
+**Environment and libraries**
+
+R
+
+Oracle SQL
 
 sqldf
-
-igraph
